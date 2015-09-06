@@ -1,0 +1,13 @@
+# Site settings
+title: Trent Nelson
+email: contact@trentnelson.com
+description: > # this means to ignore newlines until "baseurl:"
+    Trent Nelson's personal website.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://trentnelson.com"
+twitter_username: trentnelson
+github_username:  tpn
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
